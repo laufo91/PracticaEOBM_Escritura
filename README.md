@@ -1,8 +1,8 @@
 # PracticaEOBM_Escritura
-##Descripción 
+## Descripción 
 Este....
 
 
 Laura Victoria Forero Vega
 =========================
-Estudié 
+Estudié matemáticas
