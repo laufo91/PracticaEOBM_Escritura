@@ -1,4 +1,8 @@
 # PracticaEOBM_Escritura
 ##Descripción 
+Este....
 
-Tutorial para aprender markdown
+
+Laura Victoria Forero Vega
+=========================
+Estudié 
